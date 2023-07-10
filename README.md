@@ -1,5 +1,5 @@
 # magento-help-desk
-Magento 2 Help Desk extension free collects and processes all tickets, emails in one place. Improve customer satisfaction with fast and efficient support services, improve employee productivity by organizing and arranging work perfectly.
+With Magento 2 Help Desk extension, you can manage customer support tickets effectively and efficiently, you can create, assign, and resolve tickets, communicate with customers, and track ticket status and performance
 
 Please go to https://magehq.com/help-desk.html download free extension
 
